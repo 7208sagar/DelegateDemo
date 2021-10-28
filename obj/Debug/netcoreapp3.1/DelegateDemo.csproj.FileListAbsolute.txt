@@ -1,0 +1,14 @@
+C:\Users\hp\Desktop\neww\DelegateDemo\DelegateDemo\bin\Debug\netcoreapp3.1\DelegateDemo.exe
+C:\Users\hp\Desktop\neww\DelegateDemo\DelegateDemo\bin\Debug\netcoreapp3.1\DelegateDemo.deps.json
+C:\Users\hp\Desktop\neww\DelegateDemo\DelegateDemo\bin\Debug\netcoreapp3.1\DelegateDemo.runtimeconfig.json
+C:\Users\hp\Desktop\neww\DelegateDemo\DelegateDemo\bin\Debug\netcoreapp3.1\DelegateDemo.runtimeconfig.dev.json
+C:\Users\hp\Desktop\neww\DelegateDemo\DelegateDemo\bin\Debug\netcoreapp3.1\DelegateDemo.dll
+C:\Users\hp\Desktop\neww\DelegateDemo\DelegateDemo\bin\Debug\netcoreapp3.1\DelegateDemo.pdb
+C:\Users\hp\Desktop\neww\DelegateDemo\DelegateDemo\obj\Debug\netcoreapp3.1\DelegateDemo.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\neww\DelegateDemo\DelegateDemo\obj\Debug\netcoreapp3.1\DelegateDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\neww\DelegateDemo\DelegateDemo\obj\Debug\netcoreapp3.1\DelegateDemo.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\neww\DelegateDemo\DelegateDemo\obj\Debug\netcoreapp3.1\DelegateDemo.AssemblyInfo.cs
+C:\Users\hp\Desktop\neww\DelegateDemo\DelegateDemo\obj\Debug\netcoreapp3.1\DelegateDemo.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\neww\DelegateDemo\DelegateDemo\obj\Debug\netcoreapp3.1\DelegateDemo.dll
+C:\Users\hp\Desktop\neww\DelegateDemo\DelegateDemo\obj\Debug\netcoreapp3.1\DelegateDemo.pdb
+C:\Users\hp\Desktop\neww\DelegateDemo\DelegateDemo\obj\Debug\netcoreapp3.1\DelegateDemo.genruntimeconfig.cache
